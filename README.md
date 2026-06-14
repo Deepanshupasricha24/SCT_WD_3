@@ -1,7 +1,7 @@
 # SCT_WD_3
 
 ## Task 3 - Tic-Tac-Toe Game Project
-This is ful;y functional responsive Tic-Tac-Toe Web Application built during my internship at SkillCraft Technology.
+This is fully functional responsive Tic-Tac-Toe Web Application built during my internship at SkillCraft Technology.
 
 ## Live Demo 
 [Click Here to View Live Project](https://deepanshupasricha24.github.io/SCT_WD_3/)
